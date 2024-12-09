@@ -1,0 +1,1 @@
+{"errors":[{"title":"Authorization failed","code":"auth_failed","detail":"Please authorize by providing either the Authorization or the X-Api-Key request header."}]}
